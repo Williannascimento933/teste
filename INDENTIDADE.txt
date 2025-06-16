@@ -4,3 +4,4 @@ idade; 20
 altura: 1.80
 cidade; São Paulo
 Pais: Brazil
+cor de cabelo: Preto
